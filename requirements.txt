@@ -1,0 +1,11 @@
+autopep8==1.5.7
+dnspython==2.1.0
+email-permutations==0.6.0
+filelock==3.0.12
+flake8==3.9.2
+idna==3.2
+mccabe==0.6.1
+py3-validate-email==1.0.1
+pycodestyle==2.7.0
+pyflakes==2.3.1
+toml==0.10.2
